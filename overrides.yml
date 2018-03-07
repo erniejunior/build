@@ -7,7 +7,7 @@
 #     branch: test
 #  
 
-version_control:
+ version_control:
     - std:
         github: rock-core/base-orogen-std
         branch: toolchain-2.8
@@ -28,6 +28,7 @@ version_control:
    - orocos_toolchain:
      branch: toolchain-2.8
    - ocl:
+     github: erniejunior/ocl
      branch: toolchain-2.8
    - rtt_typelib:
      branch: toolchain-2.8
