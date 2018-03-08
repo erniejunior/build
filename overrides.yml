@@ -22,7 +22,6 @@
    - utilmm:
      branch: toolchain-2.8
    - rtt:
-     github: erniejunior/rtt
      branch: toolchain-2.8
    - log4cpp:
      branch: toolchain-2.8
